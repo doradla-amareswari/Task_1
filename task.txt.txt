@@ -1,0 +1,4 @@
+name:amareswari
+department:csbs
+emailid:doradla.amareswari@gmail.com
+city:guntur
